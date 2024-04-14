@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="./readme-images/project-logo.png" alt="Alt Text" width="200" height="200" />
+  <img src="./readme-images/me.png" alt="Alt Text" width="200" height="200" />
 
   <h2 align="center">Yuvraj Singh -Portfolio</h2>
 
